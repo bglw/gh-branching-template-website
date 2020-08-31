@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 
-echo $RUN_THING
+if [ "$RUN_THING" = 'true' ]
+  echo "Woohoo true"
+else
+  echo "Woohoo false"
+fi
