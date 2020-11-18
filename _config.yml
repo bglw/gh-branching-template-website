@@ -91,7 +91,7 @@ call_to_actions:
 _select_data:
   pastas:
     - 1
-    - 2
+    - "2"
     - "penne"
     - 3
 
