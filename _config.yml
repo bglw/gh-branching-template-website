@@ -89,7 +89,7 @@ call_to_actions:
   - Map
 
 _select_data:
-  pasta:
+  pastas:
     - 1
     - 2
     - 3
