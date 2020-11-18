@@ -90,10 +90,10 @@ call_to_actions:
 
 _select_data:
   pastas:
-    - 1
-    - "2"
-    - "penne"
-    - 3
+    1: 1
+    Two: "2"
+    Penne: "penne"
+    3: 3
 
 social_icons:
   - Facebook
