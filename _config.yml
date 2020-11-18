@@ -92,6 +92,7 @@ _select_data:
   pastas:
     - 1
     - 2
+    - "penne"
     - 3
 
 social_icons:
