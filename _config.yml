@@ -88,6 +88,12 @@ call_to_actions:
   - Advice
   - Map
 
+_select_data:
+  numbers:
+    - 1
+    - 2
+    - 3
+
 social_icons:
   - Facebook
   - Google Plus
